@@ -1,0 +1,42 @@
+@font-face {
+    font-family: Bronova;
+    src: url(bronova/Bronova_Regular.otf);
+}
+
+@font-face {
+    font-family: Bronova_Bold;
+    src: url(bronova/Bronova_Bold.otf);
+}
+
+#topbar-text {
+    background-color: #ff004d;
+    text-align: right;
+    font-size: larger;
+    font-weight: normal;
+    font-family: Bronova_Bold;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+#info {
+    text-align: center;
+    line-height: 10px;
+    h2 {
+        font-family: Bronova_Bold;
+    }
+    
+    h3 {
+        font-family: Bronova;
+    }
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+body {
+    background-color: aliceblue;
+    margin-left: 70px;
+    margin-right: 70px;
+}
