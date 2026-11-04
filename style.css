@@ -45,6 +45,12 @@
     line-height: auto;
 }
 
+#links {
+    text-align: center;
+    font-family: Bronova;
+    line-height: 10px;
+}
+
 
 /* Showcase Page */
 #showcase-images {
@@ -80,4 +86,5 @@ body {
     background-color: aliceblue;
     margin-left: 70px;
     margin-right: 70px;
+    line-height: 30px;
 }
